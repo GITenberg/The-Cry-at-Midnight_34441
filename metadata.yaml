@@ -1,0 +1,38 @@
+_repo: The-Cry-at-Midnight_34441
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 34441-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Wirt, Mildred A. (Mildred Augustine)
+    aliases:
+    - Wirt, Ann
+    - Benson, Mildred Wirt
+    - Augustine, Mildred
+    - Wirt, Mildred Augustine
+    - Benson, Millie
+    birthdate: 1905
+    deathdate: 2002
+    gutenberg_agent_id: '37000'
+    url: http://www.gutenberg.org/2009/agents/37000
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Mildred_Benson
+    - http://www.gutenberg.org/browse/authors/c#a36376
+description: ''
+gutenberg_issued: '2010-11-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34441'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Women detectives -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Parker, Penny (Fictitious character) -- Juvenile fiction'
+- !lcsh 'Mystery and detective stories'
+- !lcsh 'Adventure and adventurers -- Juvenile fiction'
+title: The Cry at Midnight
+url: http://www.gutenberg.org/ebooks/34441
